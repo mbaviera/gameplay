@@ -5,21 +5,21 @@ Crie grupos para jogar seus games favoritos com seus amigos com esse App que pos
 
 ## 🛠️ Construído com
 
-React Native
-Typescript
- Expo
- Context API
- Async Storage
- Vector Icons
- React Native Svg e Svg Transform
- Axios
- Gradient colors
- OAuth2 Discord
- Expo Google Fonts
- React Navigation Stack
- React Native Gesture Handler
- Expo Authentication
- React Native Share
+React Native<br/>
+Typescript<br/>
+ Expo<br/>
+ Context API<br/>
+ Async Storage<br/>
+ Vector Icons<br/>
+ React Native Svg e Svg Transform<br/>
+ Axios<br/>
+ Gradient colors<br/>
+ OAuth2 Discord<br/>
+ Expo Google Fonts<br/>
+ React Navigation Stack<br/>
+ React Native Gesture Handler<br/>
+ Expo Authentication<br/>
+ React Native Share<br/>
  Deep Link
 
 ## ✒️ Autores
